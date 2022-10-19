@@ -30,7 +30,7 @@ Recap from class:
 ## Next time: Browser APIs
 
 * API: Application Programming Interface
-  * An "interface" is a way for two systems to communicate with each other. A "user interface" is a way for a user (system #1) to intereact with a program (system #2). An "application programming interface (API)" is a way for one program to interact with another program
+  * An "interface" is a way for two systems to communicate with each other. A "user interface" is a way for a user (system #1) to intereact with a program (system #2). An "application programming interface (API)" is a way for one program to interact with another program. A browser API is a way for your application to talk to various things that the browser provides for you. See below for some examples.
 * [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) (redux)
   
   > The Fetch API provides an interface for fetching resources (including across the network). It ... provides a more powerful and flexible feature set [than previous built-in methods for fetching data].
@@ -40,3 +40,6 @@ Recap from class:
 * [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 
   > The Web Storage API provides mechanisms by which browsers can store key/value pairs, in a much more intuitive fashion than using cookies. `localStorage` ... persists even when the browser is closed and reopened.
+* [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
+
+  > [The History API] exposes useful methods and properties that let you navigate back and forth through the user's history, and manipulate the contents of the history stack.
